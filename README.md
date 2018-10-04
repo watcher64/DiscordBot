@@ -7,5 +7,6 @@
 [![Build Status](https://travis-ci.com/SatyrFarm/DiscordBot.svg?branch=master)](https://travis-ci.com/SatyrFarm/DiscordBot)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/SatyrFarm/DiscordBot.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FSatyrFarm%2FDiscordBot)
 
-A Discord Bot made for Satyr Farm, a OpenSimulator System
-
+# Todo
+- Merge Commands from App.js into the commands folder with the command format(see ping.js for example)
+- Add Sequelize into Package.json
